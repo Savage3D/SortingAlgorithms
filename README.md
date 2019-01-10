@@ -1,5 +1,5 @@
 # SortingAlgorithms
-Implementations of all popular sorting algorithms using C#.
+Implementations of popular sorting algorithms using C#.
 
 For convenience, all algorithms implemented as extension methods to a standard Array class.
 
