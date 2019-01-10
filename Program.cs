@@ -6,8 +6,8 @@ namespace SortingAlgorithms
     {
         static void Main(string[] args)
         {
-            const int arrayLength = 100;
-            const int maxValue = 500;
+            const int arrayLength = 25;
+            const int maxValue = 50;
 
             int[] array = new int[arrayLength];
 
@@ -19,6 +19,7 @@ namespace SortingAlgorithms
 
             array.PrintToConsole("Before sorting:");
             array.QuickSort().PrintToConsole("\nAfter sorting (using Quick Sort algorithm):");
+            array.InsertionSort().PrintToConsole("\nAfter sorting (using Insertion Sort algorithm):");
 
             Console.ReadLine();
         }
