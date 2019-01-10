@@ -21,6 +21,7 @@ namespace SortingAlgorithms
             array.PrintToConsole("Before sorting:");
             array.QuickSort().PrintToConsole("\nAfter sorting (using Quick Sort algorithm):");
             array.InsertionSort().PrintToConsole("\nAfter sorting (using Insertion Sort algorithm):");
+            array.BubbleSort().PrintToConsole("\nAfter sorting (using Bubble Sort algorithm):");
 
             Console.ReadLine();
         }
