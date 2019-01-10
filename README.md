@@ -5,11 +5,11 @@ For convenience, all algorithms implemented as extension methods to a standard A
 
 ## Done:
  - Insertion sort
+ - Bubble sort
  - Quicksort
 
 ## Todo:
  - Selection sort
- - Bubble sort
  - Merge sort
  - Heapsort
  - Shellsort
