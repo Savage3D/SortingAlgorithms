@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SortingAlgorithms.SortingMethods;
+using System;
 
 namespace SortingAlgorithms
 {

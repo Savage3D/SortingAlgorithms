@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace SortingAlgorithms
+namespace SortingAlgorithms.SortingMethods
 {
     public static class QuickSortArrayExtension
     {

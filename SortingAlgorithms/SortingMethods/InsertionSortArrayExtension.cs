@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SortingAlgorithms
+namespace SortingAlgorithms.SortingMethods
 {
     public static class InsertionSortArrayExtension
     {
